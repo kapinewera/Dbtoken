@@ -1,1 +1,6 @@
-# Dbtoken
+{
+  "tokens": [
+    "{", 
+    "token",
+    ]
+}
